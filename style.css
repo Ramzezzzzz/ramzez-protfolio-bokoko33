@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
+@import url('https://allfont.ru/allfont.css?fonts=ds-arabic');
+@import url('https://allfont.ru/allfont.css?fonts=roboto-regular');
 
 * {
 margin: 0;
@@ -7,7 +8,7 @@ box-sizing: border-box;
 }
 
 html, body{
-    font-family: "DynaPuff", sans-serif;
+    font-family: "Roboto Regular", sans-serif;
 }
 
 /* body{
@@ -268,8 +269,8 @@ height: 100%;
 }
 
 .section{
-    width: 50%;
-    padding: 1000px 4%;
+    width: 45%;
+    padding: 150px 4%;
     margin: 0;
     background-color: var(--color-background);
     overflow: hidden;
@@ -299,8 +300,8 @@ height: 100%;
 }
 
 .section-heading{
-    font-size: 18px;
-    font-weight: 700px;
+    font-size: 24px;
+    font-weight: 900px;
     line-height: 1.9;
     margin-top: 64px;
     color: var(--color-text);
@@ -308,8 +309,8 @@ height: 100%;
 
 .section-text{
     line-height: 2;
-    margin-top: 18px;
-    font-size: 16px; 
+    margin-top: 12px;
+    font-size: 18px; 
     color: var(--color-text);
 }
 
